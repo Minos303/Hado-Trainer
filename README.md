@@ -14,3 +14,4 @@ Important: At this stage, the app is only compatible with Android devices. iOS s
 This app is still in development, and your feedback would be incredibly valuable. If you encounter any issues or have suggestions for new features or improvements, please don’t hesitate to get in touch with me — I’d love to hear your thoughts and continue refining the app to better support the Hado community.
 
 Thank you for your support!
+(Check out the Wiki for a full tutorial)
